@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hello_OpenGL.vcxproj" Id="5f28af3a-eabe-4482-ae42-07c21aa716f0" />
+</Solution>
